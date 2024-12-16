@@ -1,5 +1,5 @@
-# leadsbee-responsive
-Leadsbee is a agency website. It's fully responsive. 
+# Pranith_Coder
+JB Info Tech It's fully responsive. 
 # Technology used : 
 1. HTML 5
 2. CSS 3
@@ -9,4 +9,3 @@ Leadsbee is a agency website. It's fully responsive.
 6. MixItUp plugin
  
  ## live link : 
-https://mdnakibul.github.io/leadsbee-responsive/
